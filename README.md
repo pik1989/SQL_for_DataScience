@@ -22,10 +22,10 @@ Here’s a list of topics covered in Part 2:
 6. Nested Queries
 7. MySQL Hands-on practice
 
-##Part 1: 
+## Part 1: 
 https://www.youtube.com/watch?v=ch_vJ15TeI0&t=408s
 
-##Part 2: 
+## Part 2: 
 https://www.youtube.com/watch?v=F_CfUuvpqWI&t=10s
 
 ![diagram](images/SQL_new.png)
