@@ -22,6 +22,8 @@ Here’s a list of topics covered in Part 2:
 6. Nested Queries
 7. MySQL Hands-on practice
 
+Once you are done with Part 1 & 2, you can also check the SQL-Python Connectivity video to understand how SQL & Python interacts.
+
 ## Part 1: 
 https://www.youtube.com/watch?v=ch_vJ15TeI0
 
