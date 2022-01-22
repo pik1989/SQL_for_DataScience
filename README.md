@@ -23,9 +23,12 @@ Here’s a list of topics covered in Part 2:
 7. MySQL Hands-on practice
 
 ## Part 1: 
-https://www.youtube.com/watch?v=ch_vJ15TeI0&t=408s
+https://www.youtube.com/watch?v=ch_vJ15TeI0
 
 ## Part 2: 
-https://www.youtube.com/watch?v=F_CfUuvpqWI&t=10s
+https://www.youtube.com/watch?v=F_CfUuvpqWI
+
+## SQL-Python Connectivity
+https://www.youtube.com/watch?v=vY8rS0x1VDE
 
 ![diagram](images/SQL_new.png)
